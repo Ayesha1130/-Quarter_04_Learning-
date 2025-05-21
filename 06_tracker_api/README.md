@@ -27,7 +27,7 @@ A simple, fast, and fully validated REST API for managing **Users** and their **
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/task-tracker-api.git
+git clone https://github.com/Ayesha1130/-Quarter_04_Learning-/tree/main/06_tracker_api
 cd task-tracker-api
 ```
 
